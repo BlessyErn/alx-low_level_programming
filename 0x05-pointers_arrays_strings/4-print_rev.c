@@ -7,7 +7,7 @@
   * Return: retuen void
   */
 
-void print_rev(chaf *s)
+void print_rev(char *s)
 {
 	int length;
 
