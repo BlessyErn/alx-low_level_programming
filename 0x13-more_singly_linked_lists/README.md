@@ -1,2 +1,1 @@
-
-Linked list
+More singly Linked list
