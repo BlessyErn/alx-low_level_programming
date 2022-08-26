@@ -5,6 +5,7 @@
  * @h: singly linked list
  * Return: returns no. of elements in the linked list.
  */
+
 size_t listint_len(const listint_t *h)
 {
 	unsigned int x;
