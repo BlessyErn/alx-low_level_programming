@@ -3,7 +3,6 @@
  * free_listint2 - Function
  *
  * Description: frees a listint_t list
- *
  * @head: pointer to pointer of type listint_t
  *
  */
