@@ -50,7 +50,6 @@ int main(int argc, char *argv[])
  * @filename: name of the file
  * @mode: closing or opening
  * @fd: file descriptor
- *
  * Return: void
  */
 void check_IO_stat(int stat, int fd, char *filename, char mode)

@@ -4,7 +4,6 @@
 /**
  * print_list - prints all the elements of a list_t list
  * @h: pointer to the list_t list
- *
  * Return: the number of nodes, and [0] (nil) if str is NULL
  */
 
