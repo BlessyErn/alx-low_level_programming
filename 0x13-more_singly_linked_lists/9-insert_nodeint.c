@@ -3,7 +3,6 @@
  * insert_nodeint_at_index - Function
  *
  * Description: inserts a new node at a given position.
- *
  * @head: pointer to pointer of type listint_t
  * @idx: unsigned int, index where new node will be added
  * @n: int parameter
