@@ -4,7 +4,6 @@
  *
  * @head: pointer to pointer of  listint_t
  * @n: constannt parametre
- *
  * Return: returns address to new element created
  */
 listint_t *add_nodeint(listint_t **head, const int n)
