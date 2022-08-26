@@ -1,7 +1,6 @@
 #include "lists.h"
 /**
  * pop_listint - Function
- *
  * Description: deletes the head node of a listint_t linked list.
  *
  * @head: pointer to pointer of type listint_t
